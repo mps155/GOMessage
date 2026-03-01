@@ -1,0 +1,6 @@
+@GOMessage_HostAddress = http://localhost:5290
+
+GET {{GOMessage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
